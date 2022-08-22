@@ -1,0 +1,5 @@
+전체 검색 : CMD + SHIFT + A
+
+DATABASE = DataGrip[얼티밋 버전에서 무료]
+
+

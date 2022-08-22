@@ -1,0 +1,14 @@
+SHOW DATABASE;
+
+DROP DATABASE BOARD;
+
+--DB 생성
+create database board;
+
+--DB 계정 생성
+create user 'giyeon'@'localhost' identified by 'a123456789';
+
+--생성된 계정 확인
+select `user` from `mysql`.`user`;
+
+s
